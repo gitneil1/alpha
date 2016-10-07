@@ -1,0 +1,12 @@
+/*
+Name: project_title-style.css
+Author: Neil Agor
+Date: Sept. 26, 2016
+Description: This document will provide the style for
+the project title (Project Alpha)
+*/
+h1#project_title{
+	color: yellow;
+	font-style: italic;
+	padding-left: 10px;
+}

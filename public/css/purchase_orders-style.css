@@ -1,0 +1,11 @@
+/*
+Name: purchase_orders-style.css
+Author: Neil Agor
+Date: Sept. 26, 2016
+Description: This document will provide the style for
+the purchase order form.
+*/
+ul li.child1{
+	display: flex;
+	flex-direction: row;
+}
